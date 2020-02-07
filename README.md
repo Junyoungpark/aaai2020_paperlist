@@ -19,6 +19,18 @@
 ## Graph neural networks
 1. GRET: Global Representation Enhanced Transformer
 2. Graph Representation Learning via Ladder Gamma Variational Autoencoders
+3. ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
+4. Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation
+5. Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching
+6. Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks
+7. Clustering-aware Multiple Graph Matching via Decayed Pairwise Matching Composition
+8. Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes
+9. Multi-Agent Game Abstraction via Graph Attention Neural Network
+10. Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction
+11. Going Deep: Graph Convolutional Ladder-shape Networks
+12. Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View
+13. Memory Augmented Graph Neural Networks for Sequential Recommendation
+14. Learning the Graphical Structure of Electronic Health Records with Graph Convolutional Transformer
 
 ## Representation learnings
 1. Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction
