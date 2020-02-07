@@ -31,6 +31,9 @@
 12. Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View
 13. Memory Augmented Graph Neural Networks for Sequential Recommendation
 14. Learning the Graphical Structure of Electronic Health Records with Graph Convolutional Transformer
+15. Graph Representation Learning via Ladder Gamma Variational Autoencoders
+16. GSSNN: Graph Smoothing Splines Neural Networks
+17. Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
 
 ## Representation learnings
 1. Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction
