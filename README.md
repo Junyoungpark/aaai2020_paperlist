@@ -9,15 +9,37 @@
 6. Idle Time Optimization for Target Assignment and Path Finding in Sortation Centers
 7. Policy Search by Target Distribution Learning for Continuous Control
 8. Deep Conservative Policy Iteration
+9. Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy
+10. Spatiotemporally Constrained Action Space Attacks on Deep Reinforcement Learning Agents
+11. Deep Model-Based Reinforcement Learning via Estimated Uncertainty and Conservative Policy Optimization
+12. Accelerating and Improving AlphaZero Using Population Based Training
+13. Count-Based Exploration with the Successor Representation
+14. Attentive Experience Replay
 
 ## Graph neural networks
+1. GRET: Global Representation Enhanced Transformer
+2. Graph Representation Learning via Ladder Gamma Variational Autoencoders
 
 ## Representation learnings
 1. Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction
 2. Hierarchically Clustered Representation Learning
+3. Representation Learning with Multiple Lipschitz-constrained Alignments on Partially-labeled Cross-domain
+Data
 
 
 ## Differential equations
+1. Differential Equation Units: Learning Functional Forms of Activation Functions from Data
+2. Robust Low-Rank Discovery of Data-Driven Partial Differential Equations
+
+## Scientific ML
+1. A Deep Neural Network Model of Particle Thermal Radiation in Packed Bed
+2. CORE: Automatic Molecule Optimization Using Copy & Refine Strategy
+3. Dynamic Graph Representation for Occlusion Handling in Biometrics
 
 ## miscellaneous 
 1. Uncertainty-Aware Search Framework for Multi-Objective Bayesian Optimization
+2. Ensembles of Locally Independent Prediction Models
+3. Posterior-GAN: Towards Informative and Coherent Response Generation with Posterior Generative
+Adversarial Network
+
+
