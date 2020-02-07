@@ -19,7 +19,7 @@
 ## Graph neural networks
 1. GRET: Global Representation Enhanced Transformer
 2. Graph Representation Learning via Ladder Gamma Variational Autoencoders
-3. ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
+3. [ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations](https://arxiv.org/abs/1911.07979)
 4. Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation
 5. Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching
 6. Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks
