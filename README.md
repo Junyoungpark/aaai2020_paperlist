@@ -36,6 +36,7 @@
 17. [An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual
 Information: Exponential Decay vs. Full Preservation](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_16.pdf)
 
+
 ## GNN for Combinatorial optimzations
 1. [Exploratory Combinatorial Optimization with Reinforcement Learning](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_13.pdf)
 2. [Combinatorial Optimization by Graph Pointer Networks and Hierarchical
@@ -56,6 +57,8 @@ Data
 1. A Deep Neural Network Model of Particle Thermal Radiation in Packed Bed
 2. CORE: Automatic Molecule Optimization Using Copy & Refine Strategy
 3. Dynamic Graph Representation for Occlusion Handling in Biometrics
+4. [Graph Neural Networks for Leveraging Industrial Equipment Structure: An
+application to Remaining Useful Life Estimation](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_27.pdf)
 
 ## miscellaneous 
 1. Uncertainty-Aware Search Framework for Multi-Objective Bayesian Optimization
