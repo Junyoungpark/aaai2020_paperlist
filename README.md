@@ -35,7 +35,7 @@
 16. Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
 17. [An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual
 Information: Exponential Decay vs. Full Preservation](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_16.pdf)
-
+18. [Deep Iterative and Adaptive Learning for Graph Neural Networks](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_29.pdf)
 
 ## GNN for Combinatorial optimzations
 1. [Exploratory Combinatorial Optimization with Reinforcement Learning](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_13.pdf)
@@ -59,6 +59,8 @@ Data
 3. Dynamic Graph Representation for Occlusion Handling in Biometrics
 4. [Graph Neural Networks for Leveraging Industrial Equipment Structure: An
 application to Remaining Useful Life Estimation](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_27.pdf)
+5. [Automatic Quantum Optics experimental design
+with sequential graph generative models](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_36.pdf)
 
 ## miscellaneous 
 1. Uncertainty-Aware Search Framework for Multi-Objective Bayesian Optimization
