@@ -20,20 +20,21 @@
 1. GRET: Global Representation Enhanced Transformer
 2. Graph Representation Learning via Ladder Gamma Variational Autoencoders
 3. [ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations](https://arxiv.org/abs/1911.07979)
-4. Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation
-5. Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching
-6. Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks
-7. Clustering-aware Multiple Graph Matching via Decayed Pairwise Matching Composition
-8. Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes
-9. Multi-Agent Game Abstraction via Graph Attention Neural Network
-10. Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction
-11. Going Deep: Graph Convolutional Ladder-shape Networks
-12. Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View
-13. Memory Augmented Graph Neural Networks for Sequential Recommendation
-14. Learning the Graphical Structure of Electronic Health Records with Graph Convolutional Transformer
-15. Graph Representation Learning via Ladder Gamma Variational Autoencoders
-16. GSSNN: Graph Smoothing Splines Neural Networks
-17. Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
+4. Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching
+5. Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks
+6. Clustering-aware Multiple Graph Matching via Decayed Pairwise Matching Composition
+7. Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes
+8. Multi-Agent Game Abstraction via Graph Attention Neural Network
+9. Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction
+10. Going Deep: Graph Convolutional Ladder-shape Networks
+11. Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View
+12. Memory Augmented Graph Neural Networks for Sequential Recommendation
+13. Learning the Graphical Structure of Electronic Health Records with Graph Convolutional Transformer
+14. Graph Representation Learning via Ladder Gamma Variational Autoencoders
+15. GSSNN: Graph Smoothing Splines Neural Networks
+16. Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
+17. [An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual
+Information: Exponential Decay vs. Full Preservation](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_16.pdf)
 
 ## Representation learnings
 1. Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction
