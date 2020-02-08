@@ -36,6 +36,11 @@
 17. [An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual
 Information: Exponential Decay vs. Full Preservation](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_16.pdf)
 
+## GNN for Combinatorial optimzations
+1. [Exploratory Combinatorial Optimization with Reinforcement Learning](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_13.pdf)
+2. [Combinatorial Optimization by Graph Pointer Networks and Hierarchical
+Reinforcement Learning](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_21.pdf)
+
 ## Representation learnings
 1. Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction
 2. Hierarchically Clustered Representation Learning
