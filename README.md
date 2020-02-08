@@ -36,6 +36,8 @@
 17. [An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual
 Information: Exponential Decay vs. Full Preservation](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_16.pdf)
 18. [Deep Iterative and Adaptive Learning for Graph Neural Networks](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_29.pdf)
+19. [An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual
+Information: Exponential Decay vs. Full Preservation](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_16.pdf)
 
 ## GNN for Combinatorial optimzations
 1. [Exploratory Combinatorial Optimization with Reinforcement Learning](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_13.pdf)
