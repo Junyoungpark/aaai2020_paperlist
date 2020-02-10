@@ -69,7 +69,10 @@ with sequential graph generative models](https://dlg2019.bitbucket.io/aaai20/acc
 2. Ensembles of Locally Independent Prediction Models
 3. Posterior-GAN: Towards Informative and Coherent Response Generation with Posterior Generative
 Adversarial Network
-4. [Particle Filter Recurrent Neural Networks](https://github.com/Yusufma03/pfrnns)
+
+## Time-series modelling
+1. [Particle Filter Recurrent Neural Networks](https://github.com/Yusufma03/pfrnns)
+2. [Toward Better Forecasting by Fusing Near and Distance Future Vision](https://deepai.org/publication/towards-better-forecasting-by-fusing-near-and-distant-future-visions)
 
 
 
