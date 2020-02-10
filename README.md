@@ -16,6 +16,8 @@
 13. Count-Based Exploration with the Successor Representation
 14. Attentive Experience Replay
 15. Mega-Reward: Achieving Human-Level Play without Extrinsic Rewards
+16. [Reinforcement Learning When All Actions are Not Always Available](https://arxiv.org/pdf/1906.01772.pdf)
+- Selection problems such as TSTP, MRRC, FJSSP can be also refolumated with the proposed MDP setup.
 
 ## Graph neural networks
 1. GRET: Global Representation Enhanced Transformer
