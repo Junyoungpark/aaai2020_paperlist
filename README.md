@@ -20,7 +20,7 @@
 1. GRET: Global Representation Enhanced Transformer
 2. Graph Representation Learning via Ladder Gamma Variational Autoencoders
 3. [ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations](https://arxiv.org/abs/1911.07979)
-4. Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching
+4. [Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching](http://web.cs.ucla.edu/~yzsun/papers/2020_AAAI_GraphSim.pdf)
 5. Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks
 6. Clustering-aware Multiple Graph Matching via Decayed Pairwise Matching Composition
 7. Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes
