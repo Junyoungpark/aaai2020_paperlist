@@ -52,7 +52,7 @@ Data
 
 
 ## Differential equations
-1. [Differential Equation Units: Learning Functional Forms of Activation Functions from Data](https://www.groundai.com/project/differential-equation-units-learning-functional-forms-of-activation-functions-from-data/1)
+1. [Differential Equation Units: Learning Functional Forms of Activation Functions from Data](https://arxiv.org/pdf/1909.03069.pdf)
 2. Robust Low-Rank Discovery of Data-Driven Partial Differential Equations
 
 ## Scientific ML
