@@ -51,9 +51,11 @@ Reinforcement Learning](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGM
 Data
 
 
-## Differential equations
+## Differential equations related
 1. [Differential Equation Units: Learning Functional Forms of Activation Functions from Data](https://arxiv.org/pdf/1909.03069.pdf)
 2. Robust Low-Rank Discovery of Data-Driven Partial Differential Equations
+3. [Dynamical System Inspired Adaptive Time Stepping Controller for
+Residual Network Families](https://arxiv.org/pdf/1911.10305.pdf)
 
 ## Scientific ML
 1. A Deep Neural Network Model of Particle Thermal Radiation in Packed Bed
