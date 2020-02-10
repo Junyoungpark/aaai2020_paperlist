@@ -26,7 +26,10 @@
 7. Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes
 8. Multi-Agent Game Abstraction via Graph Attention Neural Network
 9. Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction
-10. Going Deep: Graph Convolutional Ladder-shape Networks
+10. [Going Deep: Graph Convolutional Ladder-shape Networks](https://www.dropbox.com/s/i9flyzepqbob2yb/AAAI-HuR.3076.pdf?dl=0)
+- Informaly reported The depth problem of GNNs which is now suspected as a byproduct oversmoothing issues of GNN layers
+- Suggest an acrchitecture that might resolve the oversmoothing problem. somewhat looks like U-net
+
 11. Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View
 12. Memory Augmented Graph Neural Networks for Sequential Recommendation
 13. Learning the Graphical Structure of Electronic Health Records with Graph Convolutional Transformer
