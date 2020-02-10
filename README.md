@@ -15,6 +15,7 @@
 12. Accelerating and Improving AlphaZero Using Population Based Training
 13. Count-Based Exploration with the Successor Representation
 14. Attentive Experience Replay
+15. Mega-Reward: Achieving Human-Level Play without Extrinsic Rewards
 
 ## Graph neural networks
 1. GRET: Global Representation Enhanced Transformer
