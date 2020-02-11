@@ -7,7 +7,7 @@
 4. GMAN: A Graph Multi-Attention Network for Traffic Prediction
 5. Adaptive Trust Region Policy Optimization: Global Convergence and Faster Rates for Regularized MDPs
 6. Idle Time Optimization for Target Assignment and Path Finding in Sortation Centers
-7. Policy Search by Target Distribution Learning for Continuous Control
+7. [Policy Search by Target Distribution Learning for Continuous Control](https://arxiv.org/pdf/1905.11041.pdf)
 8. Deep Conservative Policy Iteration
 9. Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy
 10. Spatiotemporally Constrained Action Space Attacks on Deep Reinforcement Learning Agents
@@ -61,6 +61,7 @@ Data
 
 ## Differential equations related
 1. [Differential Equation Units: Learning Functional Forms of Activation Functions from Data](https://arxiv.org/pdf/1909.03069.pdf)
+- 
 2. Robust Low-Rank Discovery of Data-Driven Partial Differential Equations
 3. [Dynamical System Inspired Adaptive Time Stepping Controller for
 Residual Network Families](https://arxiv.org/pdf/1911.10305.pdf)
