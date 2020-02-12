@@ -74,6 +74,7 @@ Residual Network Families](https://arxiv.org/pdf/1911.10305.pdf)
 application to Remaining Useful Life Estimation](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_27.pdf)
 5. [Automatic Quantum Optics experimental design
 with sequential graph generative models](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_36.pdf)
+6. [True Nonlinear Dynamics from Incomplete Networks](https://arxiv.org/pdf/2001.06722.pdf)
 
 ## miscellaneous 
 1. Uncertainty-Aware Search Framework for Multi-Objective Bayesian Optimization
