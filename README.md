@@ -40,7 +40,7 @@
 13. Learning the Graphical Structure of Electronic Health Records with Graph Convolutional Transformer
 14. Graph Representation Learning via Ladder Gamma Variational Autoencoders
 15. GSSNN: Graph Smoothing Splines Neural Networks
-16. Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
+16. [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://arxiv.org/pdf/2001.10167.pdf)
 17. [An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual
 Information: Exponential Decay vs. Full Preservation](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_16.pdf)
 18. [Deep Iterative and Adaptive Learning for Graph Neural Networks](https://dlg2019.bitbucket.io/aaai20/accepted_papers/DLGMA_2020_paper_29.pdf)
